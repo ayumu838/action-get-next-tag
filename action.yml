@@ -1,7 +1,6 @@
 name: Actions ayumu838 Action Post Next tag
 description: Post a Next tag.
 author: ayumu838
-inputs:
 outputs:
   next-tag:
     description: Next tag name( example 20200508_01 ).
