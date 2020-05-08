@@ -4,7 +4,7 @@ author: ayumu838
 inputs:
 outputs:
   next-tag:
-    description: Next tag name(example: 20200508_01).
+    description: Next tag name( example 20200508_01 ).
 runs:
   using: docker
   image: Dockerfile
